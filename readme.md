@@ -1,39 +1,23 @@
-# power-off
+# Shutdown_Computer
 
-> Cross OS power-off.
-
+> Shutdown Computer on any platform.
 
 ## Install
 
 ```
-$ npm install --save power-off
+$ npm install shutdown_computer
 ```
-
 
 ## Usage
 
 ```js
-var powerOff = require('power-off');
+let Shutdown = reuquire("shutdown_computer");
+let s = new Shutdown();
+async function shutdown() {
+  try {
+    await s.initShutdown();
+  } catch (err) {
+    console.error(err);
+  }
+}
 
-powerOff( function (err, stderr, stdout) {
-	if(!err && !stderr) {
-		console.log(stdout);
-	}
-});
-```
-
-## CLI
-
-```
-$ npm install --global power-off
-```
-
-```
-$ power-off 
-```
-
-
-
-## License
-
-MIT © [Hemanth.HM](http://h3manth.com)

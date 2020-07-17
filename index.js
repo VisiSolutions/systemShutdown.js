@@ -27,5 +27,3 @@ class Shutdown {
 	}
 }
 
-let s = new Shutdown();
-s.initShutdown();
