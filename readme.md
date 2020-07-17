@@ -24,7 +24,7 @@ async function shutdown() {
 
 // OR Scheduale the Shutdown
 s.schedualeShutdown({ sec: 10, min: 0, hour: 0 });
-// YOu may pass in any combination of the time unit
+// You may pass in any combination of the time unit
 
 // For Example
 s.schedualeShutdown({ sec: 10, min: 1 });
