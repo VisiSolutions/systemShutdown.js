@@ -1,5 +1,6 @@
 # Shutdown_Computer
 
+> Run program using `sudo` or admin premission on Windows
 > Shutdown Computer on any platform.
 
 ## Install
@@ -21,3 +22,12 @@ async function shutdown() {
   }
 }
 
+// OR Scheduale the Shutdown
+s.schedualeShutdown({ sec: 10, min: 0, hour: 0 });
+// YOu may pass in any combination of the time unit
+
+// For Example
+s.schedualeShutdown({ sec: 10, min: 1 });
+// OR
+s.schedualeShutdown({ hour: 1 });
+```
