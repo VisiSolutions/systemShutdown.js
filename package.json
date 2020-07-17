@@ -1,0 +1,11 @@
+{
+  "name": "shutdown_computer",
+  "version": "1.0.0",
+  "description": "Package to shutdown computer with any platform installed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zaheer ud Din Faiz",
+  "license": "ISC"
+}
