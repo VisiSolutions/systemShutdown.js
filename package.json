@@ -1,11 +1,24 @@
 {
   "name": "shutdown_computer",
   "version": "1.0.0",
-  "description": "Package to shutdown computer with any platform installed",
+  "description": "Package to shutdown computer on any platform",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaheeruddinfaiz/shutdow_computer.git"
+  },
+  "keywords": [
+    "shutdown",
+    "shutdown",
+    "computer"
+  ],
   "author": "Zaheer ud Din Faiz",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zaheeruddinfaiz/shutdow_computer/issues"
+  },
+  "homepage": "https://github.com/zaheeruddinfaiz/shutdow_computer#readme"
 }
