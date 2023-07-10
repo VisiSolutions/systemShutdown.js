@@ -1,5 +1,13 @@
 <a name="readme-top"></a>
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
 <br />
 <div align="center">
   <a href="https://github.com/VisiSolutions/systemShutdown.js">
@@ -79,7 +87,7 @@ This is an example of how to list things you need to use the software and how to
 
 2. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/VisiSolutions/systemShutdown.js.git
    ```
 3. Install NPM packages
    ```sh
@@ -121,7 +129,7 @@ s.schedualeShutdown({ hour: 1 });
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/VisiSolutions/systemShutdown.js/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -169,3 +177,15 @@ Project Link: [https://github.com/VisiSolutions/systemShutdown.js](https://githu
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [Node.js]: https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=green
 [Node-url]: https://nodejs.org/
+[contributors-shield]: https://img.shields.io/github/contributors/VisiSolutions/systemShutdown.js.svg?style=for-the-badge
+[contributors-url]: https://github.com/VisiSolutions/systemShutdown.js/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/VisiSolutions/systemShutdown.js.svg?style=for-the-badge
+[forks-url]: https://github.com/VisiSolutions/systemShutdown.js/network/members
+[stars-shield]: https://img.shields.io/github/stars/VisiSolutions/systemShutdown.js.svg?style=for-the-badge
+[stars-url]: https://github.com/VisiSolutions/systemShutdown.js/stargazers
+[issues-shield]: https://img.shields.io/github/issues/VisiSolutions/systemShutdown.js.svg?style=for-the-badge
+[issues-url]: https://github.com/VisiSolutions/systemShutdown.js/issues
+[license-shield]: https://img.shields.io/github/license/VisiSolutions/systemShutdown.js.svg?style=for-the-badge
+[license-url]: https://github.com/VisiSolutions/systemShutdown.js/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/linkedin_username
