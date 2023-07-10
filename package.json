@@ -1,6 +1,6 @@
 {
   "name": "system-shutdown",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Package to shutdown computer on any platform",
   "main": "index.js",
   "scripts": {

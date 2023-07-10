@@ -1,4 +1,4 @@
-const { Platform } = require("./platform");
+const { Platform } = require("./platform.js");
 const cp = require("child_process");
 function Shutdown() {
 	this.currentPlatform = new Platform();
