@@ -1,5 +1,5 @@
 {
-  "name": "shutdown_computer",
+  "name": "systemshutdown",
   "version": "1.0.0",
   "description": "Package to shutdown computer on any platform",
   "main": "index.js",
@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zaheeruddinfaiz/shutdow_computer.git"
+    "url": "git+https://github.com/VisiSolutions/systemShutdown.js"
   },
   "keywords": [
     "shutdown",
     "shutdown",
     "computer"
   ],
-  "author": "Zaheer ud Din Faiz",
+  "author": "VisiMedia",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zaheeruddinfaiz/shutdow_computer/issues"
+    "url": "https://github.com/VisiSolutions/systemShutdown.js/issues"
   },
-  "homepage": "https://github.com/zaheeruddinfaiz/shutdow_computer#readme"
+  "homepage": "https://github.com/VisiSolutions/systemShutdown.js#readme"
 }
