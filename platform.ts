@@ -1,4 +1,4 @@
-class Platform {
+export class Platform {
 	platform;
 	constructor() {
 		this.platform = process.platform;
@@ -7,4 +7,3 @@ class Platform {
 		return this.platform;
 	}
 }
-module.exports.Platform = Platform;
