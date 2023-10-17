@@ -1,5 +1,5 @@
 {
-  "name": "system-shutdown",
+  "name": "@visimedia/system-shutdown",
   "version": "1.0.3",
   "description": "Package to shutdown computer on any platform",
   "main": "index.js",
